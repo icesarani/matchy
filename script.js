@@ -496,7 +496,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 49900,
     "descuento": 10,
     "cuotas": 6,
@@ -505,7 +505,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 66000,
     "descuento": null,
     "cuotas": 6,
@@ -514,7 +514,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 35000,
     "descuento": null,
     "cuotas": 9,
@@ -523,7 +523,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 60000,
     "descuento": null,
     "cuotas": 3,
@@ -532,7 +532,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 26459,
     "descuento": null,
     "cuotas": 6,
@@ -541,7 +541,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 8999,
     "descuento": null,
     "cuotas": 6,
@@ -550,7 +550,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 6000,
     "descuento": null,
     "cuotas": 3,
@@ -559,7 +559,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 6199,
     "descuento": null,
     "cuotas": 3,
@@ -568,7 +568,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 17490,
     "descuento": null,
     "cuotas": null,
@@ -577,7 +577,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 16997,
     "descuento": null,
     "cuotas": null,
@@ -586,7 +586,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 29999,
     "descuento": 10,
     "cuotas": 6,
@@ -595,7 +595,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 29039,
     "descuento": 10,
     "cuotas": 6,
@@ -604,7 +604,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 77600,
     "descuento": null,
     "cuotas": 3,
@@ -613,7 +613,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 79990,
     "descuento": null,
     "cuotas": 12,
@@ -622,7 +622,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 39990,
     "descuento": 10,
     "cuotas": 6,
@@ -631,7 +631,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 59990,
     "descuento": null,
     "cuotas": null,
@@ -640,7 +640,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 30870,
     "descuento": null,
     "cuotas": null,
@@ -649,7 +649,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 11147,
     "descuento": 10,
     "cuotas": 3,
@@ -658,7 +658,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 46600,
     "descuento": 15,
     "cuotas": 6,
@@ -667,7 +667,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 30000,
     "descuento": 20,
     "cuotas": 3,
@@ -676,7 +676,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 21180,
     "descuento": null,
     "cuotas": 6,
@@ -685,7 +685,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 66000,
     "descuento": null,
     "cuotas": null,
@@ -694,7 +694,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 35000,
     "descuento": null,
     "cuotas": 9,
@@ -703,7 +703,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 60000,
     "descuento": null,
     "cuotas": 3,
@@ -712,7 +712,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 26459,
     "descuento": null,
     "cuotas": 6,
@@ -721,7 +721,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 8999,
     "descuento": null,
     "cuotas": 6,
@@ -730,7 +730,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 6000,
     "descuento": null,
     "cuotas": 3,
@@ -739,7 +739,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 6199,
     "descuento": null,
     "cuotas": 3,
@@ -748,7 +748,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 17490,
     "descuento": null,
     "cuotas": null,
@@ -757,7 +757,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 16997,
     "descuento": null,
     "cuotas": null,
@@ -766,7 +766,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 29999,
     "descuento": 10,
     "cuotas": 6,
@@ -775,7 +775,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 29039,
     "descuento": 10,
     "cuotas": 6,
@@ -784,7 +784,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 77600,
     "descuento": null,
     "cuotas": 3,
@@ -793,7 +793,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 79990,
     "descuento": null,
     "cuotas": 12,
@@ -802,7 +802,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 39990,
     "descuento": 10,
     "cuotas": 6,
@@ -811,7 +811,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 59990,
     "descuento": null,
     "cuotas": null,
@@ -820,7 +820,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 30870,
     "descuento": null,
     "cuotas": null,
@@ -829,7 +829,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 11147,
     "descuento": 10,
     "cuotas": 3,
@@ -838,7 +838,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 46600,
     "descuento": 15,
     "cuotas": 6,
@@ -847,7 +847,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 30000,
     "descuento": 20,
     "cuotas": 3,
@@ -856,7 +856,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 21180,
     "descuento": null,
     "cuotas": 6,
@@ -865,7 +865,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Negra",
+    "color": "Negro",
     "precio": 66000,
     "descuento": null,
     "cuotas": null,
@@ -1207,7 +1207,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 89500,
     "descuento": null,
     "cuotas": 6,
@@ -1252,7 +1252,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 46600,
     "descuento": null,
     "cuotas": 6,
@@ -1261,7 +1261,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 46600,
     "descuento": null,
     "cuotas": 6,
@@ -1288,7 +1288,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 45000,
     "descuento": null,
     "cuotas": 6,
@@ -1342,7 +1342,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 17990,
     "descuento": null,
     "cuotas": 9,
@@ -1369,7 +1369,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 39990,
     "descuento": null,
     "cuotas": 6,
@@ -1378,7 +1378,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 35999,
     "descuento": null,
     "cuotas": null,
@@ -1432,7 +1432,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 25899,
     "descuento": null,
     "cuotas": 9,
@@ -1441,7 +1441,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 33000,
     "descuento": null,
     "cuotas": 6,
@@ -1450,7 +1450,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 49990,
     "descuento": null,
     "cuotas": null,
@@ -1459,7 +1459,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 74999,
     "descuento": null,
     "cuotas": 6,
@@ -1468,7 +1468,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 35500,
     "descuento": null,
     "cuotas": 3,
@@ -1486,7 +1486,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 29400,
     "descuento": null,
     "cuotas": null,
@@ -1495,7 +1495,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 53980,
     "descuento": null,
     "cuotas": null,
@@ -1513,7 +1513,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 27822,
     "descuento": null,
     "cuotas": 6,
@@ -1522,7 +1522,7 @@ const products = [
   },
   {
     "producto": "Malla",
-    "color": "Roja",
+    "color": "Rojo",
     "precio": 25999,
     "descuento": null,
     "cuotas": 9,
