@@ -580,26 +580,6 @@ const products = [
     "link_publicacion": "https://www.odiseaswimwear.com.ar/productos/bikini-agus-pipa-off-white/"
   },
   {
-    "producto": "Malla",
-    "color": "Negra",
-    "marca": "Etiqueta Negra",
-    "precio": 66000,
-    "descuento": null,
-    "cuotas": null,
-    "link_foto": "https://www.etiquetanegra.us/media/catalog/product/e/t/etnh_ecom_6_-_v24_-_0766.jpg?quality=100&fit=bounds&height=&width=",
-    "link_publicacion": "https://www.etiquetanegra.us/03811680102.html"
-  },
-  {
-    "producto": "Malla",
-    "color": "Negra",
-    "marca": "Etiqueta Negra",
-    "precio": 66000,
-    "descuento": null,
-    "cuotas": null,
-    "link_foto": "https://www.etiquetanegra.us/media/catalog/product/e/t/etnh_ecom_6_-_v24_-_0766.jpg?quality=100&fit=bounds&height=&width=",
-    "link_publicacion": "https://www.etiquetanegra.us/03811680102.html"
-  },
-  {
     "producto": "Bikini",
     "color": "Rojo",
     "marca": "Odisea",
@@ -1968,6 +1948,196 @@ const products = [
     "cuotas": null,
     "link_foto": "https://acdn.mitiendanube.com/stores/018/676/products/nuevas-fotos-4-55-7d22b8af914836a89217274444944031-1024-1024.png",
     "link_publicacion": "https://www.fly-halfrugby.com.ar/productos/traje-de-bano-canterbury-waikato-azul-marino/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Palmera",
+    "precio": 60000,
+    "descuento": null,
+    "cuotas": 3,
+    "link_foto": "https://acdn.mitiendanube.com/stores/345/426/products/ram00232-0e197db94545a25c6017247969714824-1024-1024.webp",
+    "link_publicacion": "https://www.palmera.com.ar/productos/traje-de-bano-surfero-negro/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Sportline",
+    "precio": 26459,
+    "descuento": null,
+    "cuotas": 6,
+    "link_foto": "https://sportline.vtexassets.com/arquivos/ids/885370-1200-auto?v=638103978593300000&width=1200&height=auto&aspect=true",
+    "link_publicacion": "https://www.sportline.com.ar/liso-negro-064510283000027/p"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "JJ deportes",
+    "precio": 8999,
+    "descuento": null,
+    "cuotas": 6,
+    "link_foto": "https://celadasa.vtexassets.com/arquivos/ids/219134-1200-auto?v=638028185893570000&width=1200&height=auto&aspect=true",
+    "link_publicacion": "https://www.jjdeportes.com.ar/short-de-ba%C3%B1o-hifel-liso-negro-natacion-hombre-ha0065/p?srsltid=AfmBOorRGwS5XJTLd2uO--slhrYlc-HJIz9tBll_JTdZsOFpWlNZP2Iz"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Wacky",
+    "precio": 6000,
+    "descuento": null,
+    "cuotas": 3,
+    "link_foto": "https://acdn.mitiendanube.com/stores/003/191/551/products/d_930610-mla52647786367_112022-o-aceaaa9ca7cd47df3316854681126981-640-0.webp",
+    "link_publicacion": "https://www.wacky.com.ar/productos/short-de-bano-hombre-prince-liso-talle-12-al-46-negro/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Sportotal",
+    "precio": 6199,
+    "descuento": null,
+    "cuotas": 3,
+    "link_foto": "https://sportotalar.vtexassets.com/arquivos/ids/318377-150-auto?v=637807190987970000&width=150&height=auto&aspect=true",
+    "link_publicacion": "https://www.sportotal.com.ar/malla-spt-hombre-lisa-negro1000-n-22130-negro/p?srsltid=AfmBOoq7I0aPYOtHtVrrx4DRhqKsttcg7UQ0nSQkMC-Eq3qw1K2REySM"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Trouzer",
+    "precio": 17490,
+    "descuento": null,
+    "cuotas": null,
+    "link_foto": "https://http2.mlstatic.com/D_NQ_NP_2X_825976-MLA73503308496_122023-F.webp",
+    "link_publicacion": "https://www.trouzer.com.ar/MLA-1399995505-short-de-bano-hombre-liso-traje-malla-suspensor-bolsillos-_JM"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Bleemar",
+    "precio": 16997,
+    "descuento": null,
+    "cuotas": null,
+    "link_foto": "https://http2.mlstatic.com/D_Q_NP_2X_667672-MLA53545420352_012023-R.webp",
+    "link_publicacion": "https://www.tienda-bleemar.com/MLA-1329381427-short-de-bano-hombre-liso-malla-traje-secado-rapido-_JM"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Wellington Polo",
+    "precio": 29999,
+    "descuento": 10,
+    "cuotas": 6,
+    "link_foto": "https://acdn.mitiendanube.com/stores/306/659/products/wp-2641-76f62238828f030c0916663742381026-1024-1024.webp",
+    "link_publicacion": "https://www.wellingtonpoloclub.com.ar/productos/short-de-bano-modelo-golfo-negro/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Langosta",
+    "precio": 29039,
+    "descuento": 10,
+    "cuotas": 6,
+    "link_foto": "https://acdn.mitiendanube.com/stores/001/339/706/products/short-de-bano_web_021-5b291fca975492f2e516946096088716-1024-1024.webp",
+    "link_publicacion": "https://langosta.ar/productos/pack-x-2-shorts-de-bano-negro-amarillo/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Cardon",
+    "precio": 77600,
+    "descuento": null,
+    "cuotas": 3,
+    "link_foto": "https://cardon.com.ar/wp-content/uploads/2024/08/121066055BT_42-1293-copia.jpg",
+    "link_publicacion": "https://cardon.com.ar/shop/hombre/verano-hombre/short-de-bano-atlantida-negro-corte-clasico/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Rochas",
+    "precio": 79990,
+    "descuento": null,
+    "cuotas": 12,
+    "link_foto": "https://rochasshop.com.ar/wp-content/uploads/2023/11/PR_708011NEG_0206.jpg",
+    "link_publicacion": "https://rochasshop.com.ar/shop/prev_seasons/traje-de-bano-liso-black/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Virtual",
+    "precio": 39990,
+    "descuento": 10,
+    "cuotas": 6,
+    "link_foto": "https://acdn.mitiendanube.com/stores/089/162/products/1698245001-c97d6a311c6d02a7e016982453632743-1024-1024.webp",
+    "link_publicacion": "https://www.tiendapatopampa.com/productos/shorts-bano-liso-roma-negro/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "O'neill",
+    "precio": 59990,
+    "descuento": null,
+    "cuotas": null,
+    "link_foto": "https://www.oneillargentina.com/cdn/shop/files/OMK1TB04-NEGRO-01_59d38bea-2b9d-4105-ae79-8e72cb3adcb0_1200x_crop_center.jpg?v=1728307414",
+    "link_publicacion": "https://www.oneillargentina.com/products/traje-de-bano-vert-negro-men-oneill"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Nopal",
+    "precio": 30870,
+    "descuento": null,
+    "cuotas": null,
+    "link_foto": "https://acdn.mitiendanube.com/stores/184/874/products/short-de-bano-adulto-negro1-9751f1fe1401eca0d216959228141310-640-0.webp",
+    "link_publicacion": "https://www.nopal.com.ar/productos/short-traje-de-bano-adulto-unisex-negro/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Varo varo",
+    "precio": 11147,
+    "descuento": 10,
+    "cuotas": 3,
+    "link_foto": "https://acdn.mitiendanube.com/stores/001/958/075/products/img_80531-17fbb9e0c4db89029916617959151230-1024-1024.webp",
+    "link_publicacion": "https://www.varovaro.com.ar/productos/short-de-bano-a4900/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Manki",
+    "precio": 46600,
+    "descuento": 15,
+    "cuotas": 6,
+    "link_foto": "https://acdn.mitiendanube.com/stores/252/220/products/821df2df-4d49-43b6-b9ef-f0789a15e7ac-6230a13efaab1e7c3817245180630876-1024-1024.webp",
+    "link_publicacion": "https://www.mankioficial.com/productos/tdb-hawai-negra/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Discobolo",
+    "precio": 30000,
+    "descuento": 20,
+    "cuotas": 3,
+    "link_foto": "https://acdn.mitiendanube.com/stores/238/782/products/25-07-discobolo-ecom54451-ac3ad63cbe221a362a16940948888828-1024-1024.webp",
+    "link_publicacion": "https://www.discobolojeans.com/productos/traje-de-bano-basic/?variant=498440579"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Vinson",
+    "precio": 21180,
+    "descuento": null,
+    "cuotas": 6,
+    "link_foto": "https://acdn.mitiendanube.com/stores/627/888/products/splash-negro-fr1-faea954a507f0f28af16914332608566-640-0.webp",
+    "link_publicacion": "https://vinsonindumentaria.com.ar/productos/short-de-bano-splash-negro/"
+  },
+  {
+    "producto": "Malla",
+    "color": "Negro",
+    "marca": "Etiqueta Negra",
+    "precio": 66000,
+    "descuento": null,
+    "cuotas": null,
+    "link_foto": "https://www.etiquetanegra.us/media/catalog/product/e/t/etnh_ecom_6_-_v24_-_0766.jpg?quality=100&fit=bounds&height=&width=",
+    "link_publicacion": "https://www.etiquetanegra.us/03811680102.html"
   }
 ];
 
